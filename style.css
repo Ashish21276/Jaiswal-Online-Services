@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+#home img {
+  width: 50px;
+  /* min-height: 50 px; */
+}
+.carousel-item img {
+  height: 80vh;
+  width: 100%;
+}
+.contact img {
+  max-height: 50vh;
+  max-width: 100%;
+  border-radius: 5px;
+}
+.card img {
+  min-width: 50%;
+  max-height: 160px;
+}
+.card {
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 10px; /* Added */
+  min-height: 22rem;
+}
+.fa-whatsapp-square {
+  color: #128C7E;
+}
+.fa-telegram-square {
+  color: #0088CC;
+}
+.fa-map-marked-alt{
+  color: gold;
+}
